@@ -1,0 +1,206 @@
+Thu, 10 Mar 2016 13:42:47 +0800	[256]Unkown database type.	/eccore/ecmall.php	642
+Thu, 10 Mar 2016 13:42:47 +0800	[256]Unkown database type.	/eccore/ecmall.php	642
+Thu, 10 Mar 2016 13:43:15 +0800	[256]Unkown database type.	/eccore/ecmall.php	642
+Wed, 23 Mar 2016 11:06:10 +0800	[2]require_once(/data/web/s.hnsjb.cn/app/Logger.php): failed to open stream: No such file or directory	/app/sso.app.php	6
+Wed, 23 Mar 2016 11:06:38 +0800	[2]require_once(/data/web/s.hnsjb.cn/app/Logger.php): failed to open stream: No such file or directory	/app/sso.app.php	6
+Wed, 23 Mar 2016 11:08:56 +0800	[2]require_once(/data/web/s.hnsjb.cn/app/Logger.php): failed to open stream: No such file or directory	/app/sso.app.php	24
+Wed, 23 Mar 2016 11:10:40 +0800	[2]require_once(/data/web/s.hnsjb.cn/app../sso/Logger.php): failed to open stream: No such file or directory	/app/sso.app.php	24
+Wed, 23 Mar 2016 11:17:34 +0800	[2]include(/data/web/s.hnsjb.cnincludes/config.php): failed to open stream: No such file or directory	/sso/init.php	50
+Wed, 23 Mar 2016 11:41:27 +0800	[2]error_log(/data/web/s.hnsjb,cn/sso/error.log): failed to open stream: No such file or directory	/app/sso.app.php	553
+Wed, 23 Mar 2016 11:42:14 +0800	[2]error_log(/data/web/s.hnsjb,cn/sso/error.log): failed to open stream: No such file or directory	/app/sso.app.php	553
+Wed, 23 Mar 2016 11:42:14 +0800	[2]error_log(/data/web/s.hnsjb,cn/sso/error.log): failed to open stream: No such file or directory	/app/sso.app.php	553
+Thu, 24 Mar 2016 09:46:10 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Thu, 24 Mar 2016 09:46:19 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Thu, 24 Mar 2016 09:46:29 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Thu, 24 Mar 2016 09:48:20 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Thu, 24 Mar 2016 14:58:19 +0800	[256]MySQL Error[1054]: Unknown column 'phpssouid' in 'field list'
+MySQL Query:INSERT ignore INTO ecm_member (`phpssouid`,`user_name`,`password`,`email`,`last_ip`,`reg_time`) VALUES ('','18637139066','84f79144fef18279fb0376769c34c0e6','5921@hnsjb.cn','125.46.11.253','1458802699')
+Wrong File:  /data/web/s.hnsjb.cn/app/sso.app.php[78]	/eccore/model/mysql.php	286
+Thu, 24 Mar 2016 15:00:56 +0800	[256]MySQL Error[1054]: Unknown column 'phpssouid' in 'field list'
+MySQL Query:INSERT ignore INTO ecm_member (`phpssouid`,`user_name`,`password`,`email`,`last_ip`,`reg_time`) VALUES ('','18637139066','7f543fdc23b66920e9a3a02587b31343','5922@hnsjb.cn','125.46.11.253','1458802856')
+Wrong File:  /data/web/s.hnsjb.cn/app/sso.app.php[78]	/eccore/model/mysql.php	286
+Thu, 24 Mar 2016 15:02:59 +0800	[256]MySQL Error[1054]: Unknown column 'phpssouid' in 'field list'
+MySQL Query:INSERT ignore INTO ecm_member (`phpssouid`,`user_name`,`password`,`email`,`last_ip`,`reg_time`) VALUES ('','18637139066','94a7ce7a2d315094f8d84510646b66b5','5923@hnsjb.cn','125.46.11.253','1458802979')
+Wrong File:  /data/web/s.hnsjb.cn/app/sso.app.php[78]	/eccore/model/mysql.php	286
+Thu, 24 Mar 2016 17:45:11 +0800	[2]Illegal string offset 'user_id'	/app/sso.app.php	48
+Thu, 24 Mar 2016 17:49:44 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 11:26:54 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 11:33:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 11:34:42 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 11:35:22 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0148/ab016304dcd78bff60f9a17810017d0e.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Fri, 25 Mar 2016 11:41:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 11:42:58 +0800	[256]MySQL Error[1146]: Table 'ecmall.ecm_wxconfig' doesn't exist
+MySQL Query:select url, token, appid, appsecret from ecm_wxconfig where user_id='2'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[589]	/eccore/model/mysql.php	286
+Fri, 25 Mar 2016 11:43:05 +0800	[256]MySQL Error[1146]: Table 'ecmall.ecm_wxconfig' doesn't exist
+MySQL Query:select url, token, appid, appsecret from ecm_wxconfig where user_id='2'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[589]	/eccore/model/mysql.php	286
+Fri, 25 Mar 2016 11:51:20 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 11:51:59 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 11:52:11 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:34:29 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 14:41:53 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:43:54 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:43:54 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:43:55 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:43:55 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:43:55 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	23
+Fri, 25 Mar 2016 14:45:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 25 Mar 2016 15:23:08 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4'' at line 1
+MySQL Query:select * from ecm_goods where goods_id = '17' and if_show = 1 and closed = 0 limit '4'
+Wrong File:  /data/web/s.hnsjb.cn/app/get_recommend.app.php[24]	/eccore/model/mysql.php	286
+Fri, 25 Mar 2016 15:23:33 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4'' at line 1
+MySQL Query:select * from ecm_goods where goods_id = '17' and if_show = 1 and closed = 0 limit '4'
+Wrong File:  /data/web/s.hnsjb.cn/app/get_recommend.app.php[24]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 10:29:59 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:34 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:34 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:54 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:55 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:55 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:55 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:55 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:30:56 +0800	[2]json_decode() expects parameter 1 to be string, array given	/app/goods.app.php	49
+Tue, 29 Mar 2016 10:58:55 +0800	[2]Invalid argument supplied for foreach()	/app/goods.app.php	49
+Tue, 29 Mar 2016 14:47:47 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0365/898a3fce98d7454c420a45e00aa904bc.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Tue, 29 Mar 2016 14:58:57 +0800	[2]array_values() expects parameter 1 to be array, null given	/app/order.app.php	32
+Tue, 29 Mar 2016 15:29:14 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:40:48 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:41:32 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:42:46 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:43:02 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:44:20 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:44:37 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:45:11 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:46:54 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	44
+Tue, 29 Mar 2016 15:47:50 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	44
+Tue, 29 Mar 2016 15:48:10 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:11 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:11 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:12 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:12 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:12 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:12 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:12 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:25 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:30 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:32 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:32 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:34 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 29 Mar 2016 15:48:46 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:48:53 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:49:14 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:50:26 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:52:39 +0800	[2]include(/data/web/s.hnsjb.cn/includes/goodstypes/.gtype.php): failed to open stream: No such file or directory	/includes/global.lib.php	43
+Tue, 29 Mar 2016 15:55:41 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	472
+Tue, 29 Mar 2016 15:58:32 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	33
+Tue, 29 Mar 2016 15:58:33 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	33
+Tue, 29 Mar 2016 15:59:12 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	33
+Tue, 29 Mar 2016 15:59:35 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	33
+Tue, 29 Mar 2016 16:45:12 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* from ecm_goods_shipping where goods_id='133'' at line 1
+MySQL Query:delete * from ecm_goods_shipping where goods_id='133'
+Wrong File:  /data/web/s.hnsjb.cn/app/my_goods.app.php[2225]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:31:30 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:32:15 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:33:04 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:33:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:34:40 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 29 Mar 2016 17:36:12 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 08:50:50 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Wed, 30 Mar 2016 08:50:55 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Wed, 30 Mar 2016 09:26:21 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:27:22 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:27:23 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:28:43 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:28:44 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:29:06 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:29:46 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 09:31:38 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND session_id='f5cd6247084ce9611e1660f51d1f028d'' at line 1
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart WHERE store_id= AND session_id='f5cd6247084ce9611e1660f51d1f028d'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 10:46:16 +0800	[2]Invalid argument supplied for foreach()	/app/order.app.php	33
+Wed, 30 Mar 2016 15:07:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND store_id= AND enabled=1' at line 1
+MySQL Query:SELECT *,shipping.shipping_id FROM ecm_shipping shipping WHERE shipping_id= AND store_id= AND enabled=1
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 15:09:10 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND store_id= AND enabled=1' at line 1
+MySQL Query:SELECT *,shipping.shipping_id FROM ecm_shipping shipping WHERE shipping_id= AND store_id= AND enabled=1
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 15:11:59 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND store_id= AND enabled=1' at line 1
+MySQL Query:SELECT *,shipping.shipping_id FROM ecm_shipping shipping WHERE shipping_id= AND store_id= AND enabled=1
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 15:12:15 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND store_id= AND enabled=1' at line 1
+MySQL Query:SELECT *,shipping.shipping_id FROM ecm_shipping shipping WHERE shipping_id= AND store_id= AND enabled=1
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 15:18:07 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:19:46 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:21:03 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:21:23 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:24:15 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:25:41 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:26:52 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:31:05 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:31:21 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:41:13 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:41:39 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:42:46 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:43:29 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:43:49 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 15:45:20 +0800	[2]Invalid argument supplied for foreach()	/eccore/model/model.base.php	869
+Wed, 30 Mar 2016 16:29:28 +0800	[256]MySQL Error[1054]: Unknown column 'Array' in 'where clause'
+MySQL Query:SELECT *,order_goods.rec_id FROM ecm_order_goods order_goods WHERE order_id=Array
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 16:39:07 +0800	[2]array_values() expects parameter 1 to be array, double given	/includes/ordertypes/normal.otype.php	141
+Wed, 30 Mar 2016 16:39:51 +0800	[2]array_values() expects parameter 1 to be array, double given	/includes/ordertypes/normal.otype.php	142
+Wed, 30 Mar 2016 16:40:55 +0800	[2]array_values() expects parameter 1 to be array, double given	/includes/ordertypes/normal.otype.php	141
+Wed, 30 Mar 2016 16:41:43 +0800	[256]MySQL Error[1054]: Unknown column 'Array' in 'where clause'
+MySQL Query:SELECT *,order_goods.rec_id FROM ecm_order_goods order_goods WHERE order_id=Array
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 16:45:42 +0800	[256]MySQL Error[1054]: Unknown column 'Array' in 'where clause'
+MySQL Query:SELECT *,order_goods.rec_id FROM ecm_order_goods order_goods WHERE order_id=Array
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 16:47:49 +0800	[256]MySQL Error[1054]: Unknown column 'Array' in 'where clause'
+MySQL Query:SELECT *,order_goods.rec_id FROM ecm_order_goods order_goods WHERE order_id=Array
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 30 Mar 2016 16:48:17 +0800	[256]MySQL Error[1054]: Unknown column 'Array' in 'where clause'
+MySQL Query:SELECT *,order_goods.rec_id FROM ecm_order_goods order_goods WHERE order_id=Array
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Thu, 31 Mar 2016 09:38:53 +0800	[256]MySQL Error[1054]: Unknown column '0.00' in 'field list'
+MySQL Query:insert into ecm_goods_shipping (`goods_id`, `shipping_id`, `shipping_name`, `shipping_fee`) values ('134', '1', '平邮', `0.00`)
+Wrong File:  /data/web/s.hnsjb.cn/app/my_goods.app.php[2258]	/eccore/model/mysql.php	286
+Thu, 31 Mar 2016 11:02:12 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	138
+Thu, 31 Mar 2016 14:54:16 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Thu, 31 Mar 2016 14:54:20 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Thu, 31 Mar 2016 15:18:08 +0800	[2]in_array() expects parameter 2 to be array, null given	/includes/order.base.php	359
+Thu, 31 Mar 2016 15:24:10 +0800	[2]in_array() expects parameter 2 to be array, null given	/includes/order.base.php	359
+Thu, 31 Mar 2016 15:32:03 +0800	[2]in_array() expects parameter 2 to be array, null given	/includes/order.base.php	359
+Thu, 31 Mar 2016 17:12:36 +0800	[2]Missing argument 1 for CashierApp::_get_trade_sn(), called in /data/web/s.hnsjb.cn/app/cashier.app.php on line 57 and defined	/app/cashier.app.php	526
+Thu, 31 Mar 2016 17:19:53 +0800	[256]MySQL Error[1054]: Unknown column 'out_trade_no' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,payment_code,payment_name,payment_id,order_amount,out_trade_no) VALUES('1609072773','material','normal','2','演示店铺','3','buyer','buyer@ecmall.com','11','1459387193','200','0','0','','alipay','支付宝','6','210','9891608015')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[299]	/eccore/model/mysql.php	286

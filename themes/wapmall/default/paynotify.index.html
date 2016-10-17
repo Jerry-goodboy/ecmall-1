@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <base href="{$site_url}/" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7 charset={$charset}" />
+        <meta http-equiv="Content-Type" content="text/html; charset={$charset}" />
+		{$page_seo}
+        <link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/bookmark.css}" type="text/css" rel="stylesheet" />
+        <link href="newstatic/css/basic.css" type="text/css" rel="stylesheet" />
+        <link href="newstatic/css/style.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript" src="{lib file=jquery.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{lib file=member.js}" charset="utf-8"></script>
+
+    </head>
+
+    <body>
+    	
+    	<header class="list-header">
+			<a href="{url app=buyer_order}" class="back-btn"></a>
+			交易成功
+			{include file='header.search.html'}
+			<a href="javascript:void(0)" class="menu-btn"></a>
+		</header>
+		<div class="order-confirm-area">
+			<div class="trade-success">
+				交易成功
+			</div>
+			<div class="success-infos">
+				<div class="order-info-item">
+					<span class="order-info-name">订单编号</span>
+					<span class="order-info-content">{$out_trade_sn}</span>
+				</div>
+				<div class="order-info-item">
+					
+					<span class="order-info-name">交易时间</span>
+					<span class="order-info-content">{$pay_time}</span>
+					
+				</div>
+				{if $amount}
+				<div class="order-info-item">
+					<span class="order-info-name">支付方式</span>
+					<span class="order-info-content">{$payment.payment_name}</span>
+				</div>
+							{/if}
+			</div>
+
+			<div class="more-link">
+				<a href='{url app=default}'>继续逛逛</a>&nbsp;&nbsp;<a href="{url app=buyer_order&act=index}">查看订单</a>
+			</div>
+			
+		</div>
+</body>
+</html>

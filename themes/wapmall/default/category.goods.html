@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        {$page_seo}
+        <link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/index.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/base.css}" type="text/css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="newstatic/css/basic.css" />
+		<link rel="stylesheet" type="text/css" href="newstatic/css/style.css" />
+        <script type="text/javascript" src="index.php?act=jslang"></script>
+        <script type="text/javascript" src="{lib file=jquery.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+        {$_head_tags}
+        <script type="text/javascript">
+            //<!CDATA[
+            var SITE_URL = "{$site_url}";
+            var REAL_SITE_URL = "{$real_site_url}";
+            var PRICE_FORMAT = '{$price_format}';
+            //]]>
+        </script>
+    </head>
+<body>
+<header class="list-header">
+	<a href="javascript:history.back();" class="back-btn"></a>
+	{include file='header.search.html'}
+	<a href="javascript:void(0)" class="menu-btn"></a>
+</header>
+<div class="all-goods-area">
+			<ul class="cate-list">
+				
+				
+				<!--{foreach from=$gcategorys item=gcategory}-->
+				<li class="cate-item">
+					{if $gcategory.children}
+					{$gcategory.value|escape}
+					{else}
+					 <a href="{url app=search&cate_id=$gcategory.id}">{$gcategory.value|escape}</a> 
+					{/if}
+					<div class="cate-content">
+						<!--{foreach from=$gcategory.children item=child}-->
+					    <a href="{url app=search&cate_id=$child.id}">{$child.value|escape}</a> 
+					    <!--{/foreach}-->
+					</div>
+				</li>
+				<!--{foreachelse}-->
+				<div class="radius">
+				    暂无分类
+				</div>
+				<!--{/foreach}-->
+				
+			</ul>
+<script type="text/javascript">
+	$(function() {
+		$('.cate-item').eq(0).addClass('current-cate');
+		var contentWidth = $('body').innerWidth - 100;
+		$('.cate-content').css({'width':contentWidth + 'px'});
+		$('.cate-item').click(function() {
+			$('.cate-item').removeClass('current-cate');
+			$(this).addClass('current-cate');
+		})
+	})
+</script>
+</div>
+{include file='footer.html'}
+</div>
+</body>
+</html>
+
+
+
+

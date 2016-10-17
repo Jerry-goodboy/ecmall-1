@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7 charset={$charset}" />
+        <meta http-equiv="Content-Type" content="text/html; charset={$charset}" />
+        <link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+        <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <style>
+            .w_info{ background:#f3f3f3; padding:15px 10px; border-bottom:#eee solid 1px; margin-top:50px;}
+            .w_info h2{ padding-bottom:5px;}
+            .w_tit{color:#555; font-weight:bold; padding:0 10px; font-size:16px;}
+            .w_tit i{color:#777; font-weight:normal;font-size:14px; font-style:normal; margin-left:5px;}
+            .w_info span{ display:block; border-top:#ddd solid 1px;padding-top:5px;}
+            .w_sbtn{ width:100%; padding:10px 0;}
+            .info_table textarea{ border:#bbb solid 1px; width:100%;}
+            .info_table td{padding:5px 10px;}
+        </style>
+    </body>
+    <script>
+    function callpay()
+    {   
+        if (typeof WeixinJSBridge == "undefined"){
+            if( document.addEventListener ){
+                document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+            }else if (document.attachEvent){
+                document.attachEvent('WeixinJSBridgeReady', jsApiCall); 
+                document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+            }
+        }else{
+            jsApiCall();
+        }
+    }
+    </script>
+      <script type="text/javascript">
+  function jsApiCall()
+        {
+            WeixinJSBridge.invoke(
+                'getBrandWCPayRequest',
+                {$jsonData}, //此处是json数据
+                function(res){
+                     if(res.err_msg == "get_brand_wcpay_request:ok")
+                     {	
+                         alert("支付成功");
+                    	 window.location.href="http://s.lvgs.com.cn/mall/index.php?app=buyer_order";
+                    	 
+					 }
+					 else if(res.err_msg == "get_brand_wcpay_request:fail")
+					{
+						alert("支付失败");
+						window.location.href="http://s.lvgs.com.cn/mall/index.php?app=buyer_order";
+					 }
+					 else if(res.err_msg == "get_brand_wcpay_request:cancel")
+						 {
+						 	alert("支付取消");
+							$.post("http://s.lvgs.com.cn/mall/index.php?app=wechatmodifyorder",
+									{
+										order_id: {$order_id}
+									},
+										function(result){
+											window.location.href="http://s.lvgs.com.cn/mall/index.php?app=buyer_order";
+											}
+									);
+						 	//
+						 }
+                    //alert(res.err_msg + ",ok");
+                }
+            );
+        }             
+
+  </script>
+  <script>
+  $(document).ready(function(){
+		$.post("http://s.lvgs.com.cn/mall/index.php?app=wechatmodifyorder&act=queryorder",
+				{
+					order_id: {$order_id}
+				},
+					function(result){
+						if(result == '11')
+						{
+							callpay();
+						}
+						else if(result == '20')
+						{
+							alert("订单已付款，请勿重复支付");
+							window.location.href="http://s.lvgs.com.cn/mall/index.php?app=buyer_order";
+						}
+						else
+						{
+							alert("订单已取消");
+							window.location.href="http://s.lvgs.com.cn/mall/index.php?app=buyer_order";
+						}
+					}
+				)
+	})
+		
+  	
+  </script>
+</html>

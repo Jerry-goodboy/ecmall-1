@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        {$page_seo}
+        <link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/index.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/base.css}" type="text/css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="newstatic/css/basic.css" />
+		<link rel="stylesheet" type="text/css" href="newstatic/css/style.css" />
+        <script type="text/javascript" src="index.php?act=jslang"></script>
+        <script type="text/javascript" src="{lib file=jquery.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+        {$_head_tags}
+        <script type="text/javascript">
+            //<!CDATA[
+            var SITE_URL = "{$site_url}";
+            var REAL_SITE_URL = "{$real_site_url}";
+            var PRICE_FORMAT = '{$price_format}';
+            //]]>
+        </script>
+    </head>
+    <body id="log-reg" class="gray">
+<header class="list-header">
+			<a href="javascript:history.back()" class="back-btn"></a>
+			产品列表
+			{include file='header.search.html'}
+			<a href="javascript:void(0)" class="menu-btn"></a>
+		</header>
+
+
+
+<script type="text/javascript" src="{lib file=search_goods.js}" charset="utf-8"></script>
+
+<div class="mall-goods-area">
+			<div class="mall-goods-list-area">
+				<ul class="mall-goods-list">
+					<!--{foreach from=$goods_list item=goods name=fe_goods}-->
+					<li class="mall-goods-item">
+						<a href="{url app=goods&id=$goods.goods_id}">
+							<img src="{$goods.default_image}" alt="{$goods.name}" />
+							<h3 class="mall-goods-item-name">{$goods.goods_name|escape}</h3>
+							{if $goods.if_credit eq 1}
+							<p class="mall-goods-current-price">积分:{$goods.credit|credit}</p>
+							{else}
+							<p class="mall-goods-current-price">{$goods.price|price}</p>
+							{/if}
+						</a>
+					</li>
+					 <!--{foreachelse}-->
+        暂无此类商品
+        <!--{/foreach}-->
+				</ul>
+				</div>
+			</div>
+
+{include file='page.bottom.html'}
+
+
+{include file='footer.html'}
+
+</div>
+</body>
+</html>

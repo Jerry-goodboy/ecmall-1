@@ -1,0 +1,91 @@
+
+{include file="member.header.html"}
+
+
+<body>
+		<header class="list-header">
+			<a href="javascript:history.back()" class="back-btn"></a>
+			订单详情
+			{include file='header.search.html'}
+			<a href="javascript:void(0)" class="menu-btn"></a>
+		</header>
+		<div class="order-detail-area">
+			<div class="order-detail-consignee">
+				<div class="order-consignee-info">
+					<span class="order-consignee-name">{$order_extm.consignee|escape}</span>
+					<span class="order-consignee-mobile">{$order_extm.phone_mob}</span>
+				</div>
+				<div class="order-consignee-addr">
+					收货地址:{$order_extm.region_name|escape}&nbsp;{$order_extm.address|escape}
+				</div>
+			</div>
+		</div>
+		<div class="order-goods-item">
+				<h3 class="order-goods-shopname">
+					{$order.store_name|escape}
+				</h3>
+				<!--{foreach from=$goods_list item=goods}-->
+				<ul class="order-goods-list">
+					<li>
+						<a href="index.php?app=goods&id={$goods.goods_id}" class="order-goods-link">
+							<img src="{$goods.goods_image}" alt="{$goods.goods_name|escape}" />
+							<div class="order-goods-info">
+								<p class="order-goods-name">{$goods.goods_name|escape}</p>
+								<p class="order-goods-amount">数量：{$goods.quantity}</p>
+								{if $order.credit_consume}
+								<p class="order-goods-price">积分：{$order.credit_consume|credit_consume}</p>
+								{else}
+								<p class="order-goods-price">{$goods.price|price}</p>
+								{/if}
+							</div>
+						</a>
+					</li>
+				</ul>
+				<!--{/foreach}-->
+				<div class="order-goods-extra">
+					<div class="order-goods-input-item">
+						<label for="payment">订单编号</label>
+						<span class="order-goods-extra-content">{$order.order_sn}</span>
+					</div>
+					<div class="order-goods-input-item">
+						<label for="express">配送方式</label>
+						<span class="order-goods-extra-content">{$order_extm.shipping_name|escape}</span>
+					</div>
+					<div class="order-goods-input-item">
+						<label for="postscript">买家留言</label>
+						<span class="order-goods-extra-content">{$lang.postscript}</span>
+					</div>
+					{if $order.payment_name|escape}
+					<div class="order-goods-input-item">
+						<label for="payment">支付方式</label>
+						<span class="order-goods-extra-content">{$order.payment_name|escape}</span>
+					</div>
+					{/if}
+					<div class="order-goods-input-item">
+						<label for="payment">订单时间</label>
+						<span class="order-goods-extra-content">{$order.order_add_time|date:complete} (创建订单)</span>
+						  <!--{if $order.pay_time}-->
+						<br /><span class="order-goods-extra-content">{$order.pay_time|date:complete} (支付成功)</span>
+						<!--{/if}-->
+						 <!--{if $order.ship_time}-->
+						<br /><span class="order-goods-extra-content">{$order.ship_time|date:complete} (已发货)</span>
+						<!--{/if}-->
+						<!--{if $order.finished_time}-->
+						<br /><span class="order-goods-extra-content">{$order.finished_time|date:complete} (订单已完成)</span>
+						<!--{/if}-->
+						
+					</div>
+					<div class="order-goods-input-item">
+						<label for="payment">卖家电话</label>
+						<span class="order-goods-extra-content">{$order.tel|escape|default:-}</span>
+					</div>
+					<div class="myorder-info">
+						共1件 合计：{if $order.credit_consume}<span class="myorder-info-price">积分{$order.credit_consume}</span><span class="myorder-info-express-fee">(含运费{$order_extm.shipping_fee|price})</span>{else}<span class="myorder-info-price">{$order.order_amount|price}</span><span class="myorder-info-express-fee">(含运费{$order_extm.shipping_fee|price})</span>{/if}
+					</div>
+				</div>
+				
+			</div>
+		
+    
+    {include file="member.footer.html"}
+

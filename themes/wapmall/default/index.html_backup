@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" /> {$page_seo}
+		<link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+		<link href="{res file=css/index.css}" type="text/css" rel="stylesheet" />
+		<link href="{res file=css/base.css}" type="text/css" rel="stylesheet" />
+		<link href="newstatic/css/basic.css" type="text/css" rel="stylesheet" />
+		<link href="newstatic/css/style.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="index.php?act=jslang"></script>
+		<script type="text/javascript" src="{res file=js/jquery-1.8.0.min.js}"></script>
+		<script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+		{$_head_tags}
+	</head>
+	<script type="text/javascript" src="{res file=js/kissy/build/kissy.js}"></script>
+	<script type="text/javascript" src="{res file=js/kissy/build/switchable/switchable-pkg.js}"></script>
+
+	<body>
+		<header class="logo-header">
+			<img src="newstatic/img/xj-logo.png" alt="新界" />
+			<a href="http://www.hnsjb.cn/usercenter/menu" class="menu-btn"></a>
+		</header>
+		<div class="mall-slider" style="height: 150px;overflow: hidden;" id="J_m-slider">
+			<ul class="ks-switchable-content">
+				<li>
+					<a href="#"><img src="{res file=images/index/slider1.jpg}" /></a>
+				</li>
+				<li>
+					<a href="#"><img src="{res file=images/index/slider2.jpg}" /></a>
+				</li>
+				<li>
+					<a href="#"><img src="{res file=images/index/slider3.jpg}" /></a>
+				</li>
+				<li>
+					<a href="#"><img src="{res file=images/index/slider4.jpg}" /></a>
+				</li>
+				<li>
+					<a href="#"><img src="{res file=images/index/slider5.jpg}" /></a>
+				</li>
+			</ul>
+			<div class="ks-switchable-nav">
+				<a class="ks-active"></a>
+				<a class=""></a>
+				<a class=""></a>
+				<a class=""></a>
+				<a class=""></a>
+			</div>
+		</div>
+		<script>
+			KISSY.use('switchable', function(S) {
+				S.Slide('#J_m-slider', {
+					effect: 'scrollx',
+					easing: 'easeOutStrong'
+				});
+			});
+		</script>
+		<nav class="mall-nav">
+			<div class="mall-nav-item">
+				<a class="mall-nav-category" href="{url app=category}">
+					分类
+				</a>
+			</div>
+			<div class="mall-nav-item">
+				<a class="mall-nav-cart" href="{url app=cart}">
+					购物车
+				</a>
+			</div>
+			<div class="mall-nav-item">
+				<a class="mall-nav-usercenter" href="http://www.hnsjb.cn/usercenter/menu">
+					会员中心
+				</a>
+			</div>
+			<div class="mall-nav-item">
+				<a class="mall-nav-fav" href="{url app=my_favorite}">
+					收藏夹
+				</a>
+			</div>
+		</nav>
+		<div class="mall-flash-area">
+			<h2 class="mall-flash-list-title">
+				秒杀特卖
+				<a href="#" class="title-more">更多秒杀</a>
+			</h2>
+			<ul class="mall-goods-tri-list" id="flashDeal">
+				
+			</ul>
+		</div>
+		<div class="mall-goods-area">
+			<div class="mall-goods-list-area">
+				<h2 class="mall-goods-list-title"><span>新品特惠</span></h2>
+				<ul class="mall-goods-list" id="newGoods">
+					
+				</ul>
+			</div>
+			<div class="mall-goods-list-area">
+				<h2 class="mall-goods-list-title"><span>精品推荐</span></h2>
+				<ul class="mall-goods-list" id="bestGoods">
+				</ul>
+			</div>
+		</div>
+		{include file='footer.html'}
+		
+		<script type="text/javascript">
+			function parseItem(obj) {
+				return '<li class="mall-goods-item"><a href="/index.php?app=goods&id=' + obj.goods_id + '"><img src="' obj.goods_thumb + '" /><h3 class="mall-goods-item-name">' + obj.goods_name + '</h3><p class="mall-goods-current-price">' + obj.goods_price + '</p></a></li>';
+			}
+			$(function() {
+				$.getJSON("/index.php?app=get_recommend&recommend_id=13&num=4").done(function(data) {
+					$.each(data.goods, function(i) {
+						var item = parseItem(data[i]);
+						$('#bestGoods').append(item);
+					});
+				});
+				$.getJSON("/index.php?app=get_recommend&recommend_id=14&num=4").done(function(data) {
+					$.each(data.goods, function(i) {
+						var item = parseItem(data[i]);
+						$('#newGoods').append(item);
+					});
+				});
+				$.getJSON("/index.php?app=get_recommend&recommend_id=15&num=3").done(function(data) {
+					$.each(data.goods, function(i) {
+						var item = parseItem(data[i]);
+						$('#flashDeal').append(item);
+					});
+				});
+			})
+		</script>
+	</body>
+
+</html>

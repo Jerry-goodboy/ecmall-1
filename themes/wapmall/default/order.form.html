@@ -1,0 +1,382 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <base href="{$site_url}/" />
+        <!-- Use IE7 mode -->
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7 charset={$charset}" />
+        <meta http-equiv="Content-Type" content="text/html; charset={$charset}" />
+        {$page_seo}
+
+        <meta name="author" content="" />
+        <meta name="generator" content="" />
+        <meta name="copyright" content="" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+        <script type="text/javascript" src="index.php?act=jslang"></script>
+        <script type="text/javascript" src="{lib file=jquery.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+        <script type="text/javascript" src="{res file=js/nav.js}" charset="utf-8"></script>
+        <link href="{res file=css/order.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/common.css}" type="text/css" rel="stylesheet" />
+        <link href="{res file=css/address.css}" type="text/css" rel="stylesheet" />
+        <link href="newstatic/css/basic.css" type="text/css" rel="stylesheet" />
+        <link href="newstatic/css/style.css" type="text/css" rel="stylesheet" />
+        
+        	
+        <!--<script type="text/javascript" src="{res file=js/select.js}" charset="utf-8"></script>-->
+        <script type="text/javascript" src="{res file=js/jquery-1.8.0.min.js}" charset="utf-8"></script>
+
+        <script type="text/javascript">
+            //<!CDATA[
+            var SITE_URL = "{$site_url}";
+            var REAL_SITE_URL = "{$real_site_url}";
+            var PRICE_FORMAT = '{$price_format}';
+
+            //]]>
+        </script>
+
+
+        <body style="padding-bottom: 100px;">
+                
+                    <header class="list-header">
+						<a href="javascript:history.back(-1);" class="back-btn"></a>
+						订单确认
+						{include file='header.search.html'}
+						<a href="javascript:void(0)" class="menu-btn"></a>
+					</header>
+					<form method="post" id="order_form" onsubmit="return checkForm()">
+                    {include file="order.shipping.html"}
+
+
+                    <script type="text/javascript">
+                        function postscript_activation(tt) {
+                            if (!tt.name)
+                            {
+                                tt.value = '';
+                                tt.name = 'postscript';
+                            }
+
+                        }
+                    </script>
+                    <!--<div class="orderlist">
+                        <ul>
+                            <li>{$lang.postscript}</li>
+                            <li>  <textarea  class="com_text" id="postscript" placeholder="{$lang.postscript_desc}" onclick="postscript_activation(this);"></textarea></li>
+                        </ul>
+                    </div>-->
+
+                         {foreach from=$goods_info item=items key=store_id}
+                        <div class="order-goods-item">
+							<h3 class="order-goods-shopname">
+								<a href="{url app=store&id=$store_id}" >{$store_name[$store_id]|escape}</a>
+							</h3>
+							{foreach from=$items item=goods}
+							<div class="order-goods-container">
+								<ul class="order-goods-list">
+									<li>
+										<a href="{url app=goods&id=$goods.goods_id}" class="order-goods-link">
+											{if $goods.goods_image}
+											<img src="{$goods.goods_image}" alt="{$goods.goods_name|escape}" />
+											{else}
+											<img src="data/system/default_goods_image.gif" alt="{$goods.goods_name|escape}" />
+											{/if}
+											<div class="order-goods-info">
+												<p class="order-goods-name">{$goods.goods_name|escape}</p>
+												<p class="order-goods-amount">数量：<span class="amount-caculate">{$goods.quantity}</span>{$lang.goods_unit}</p>
+												{if $goods.if_credit eq 1}
+												<p class="order-goods-price"><span class="price-caculate">积分{$goods.credit}</span></p>
+												{else}
+												<p class="order-goods-price">&yen;<span class="price-caculate">{$goods.price}</span></p>
+												{/if}
+												{if $goods.if_credit neq 1}
+												<input type="hidden" name="order-goods-subtotal" value="{$goods.amount}" />
+												{/if}
+											</div>
+										</a>
+									</li>
+								</ul>
+								<div class="order-goods-extra">
+									<div class="order-goods-input-item">
+										<label for="express">配送方式</label>
+										{if $goods.postage_daofu}
+										{foreach from=$shipping_methods[$goods.spec_id] item=shipping_method name=foo}
+										
+			                                 <div shipping_id="{$shipping_method.shipping_id}" >
+			                                <input class="shipping-method" type="radio" name="{$goods.spec_id}" id="ship_{$shipping_method.shipping_id}_{$goods.spec_id}" value="{$store_id}+{$shipping_method.shipping_id}+{$goods.spec_id}" {if $smarty.foreach.foo.first}checked="true"{/if}/>
+			                                <label for="ship_{$shipping_method.shipping_id}_{$goods.spec_id}" style="position: initial;"><span class="money" ectype="shipping_fee">{$shipping_method.shipping_name|escape} &yen;{$shipping_method.shipping_fee}</span></label>
+			                            	</div>
+	                                 {/foreach}
+	                                 
+	                                 {else}
+	                                 {foreach from=$shipping_methods[$goods.spec_id] item=shipping_method name=foo}
+			                                 <div shipping_id="{$shipping_method.shipping_id}" >
+			                                <input class="shipping-method shipping-method1" type="radio" name="{$goods.spec_id}" data-fee="{$shipping_method.shipping_fee}" onclick="changeAmount()" id="ship_{$shipping_method.shipping_id}_{$goods.spec_id}" value="{$store_id}+{$shipping_method.shipping_id}+{$goods.spec_id}" {if $smarty.foreach.foo.first}checked="true"{/if}/>
+			                                <label for="ship_{$shipping_method.shipping_id}_{$goods.spec_id}" style="position: initial;"><span class="money" ectype="shipping_fee">{$shipping_method.shipping_name|escape} &yen;{$shipping_method.shipping_fee}</span></label>
+			                            	</div>
+	                                 {/foreach}
+	                                  
+	                                 {/if}
+									</div>
+									{if $goods.cod}
+									<div class="order-goods-input-item" style="padding-left: 7em;">
+										<label for="payment">是否货到付款</label>
+										<input type="radio" name="cod+{$goods.spec_id}" class="cod-y" id="cod_{$goods.spec_id}_y" value="1"/> <label style="position: relative;top: 0;" for="cod_{$goods.spec_id}_y">是</label>
+	                                 	<input type="radio" name="cod+{$goods.spec_id}" class="cod-n" id="cod_{$goods.spec_id}_n" value="0"/> <label style="position: relative;top: 0;" for="cod_{$goods.spec_id}_n">否</label>
+									</div>
+									 {/if}
+									{if $goods.postage_daofu}
+									<input type="hidden" name="postage_daofu" value="1 " />
+									<div class="order-goods-input-item">
+										请注意该商品为邮费到付
+									</div>
+									 {/if}
+								</div>
+							</div>
+							{/foreach}
+						</div>
+                        {/foreach}
+                    {if $if_credit}
+                    <!-- <p>是否使用积分消费</p>
+                    <input type="radio" name="if_credit" value="1" />是
+                    <input type="radio" name="if_credit" value="0" checked/>否 -->
+                    <div class="credit-area">
+                    	<p>积分抵扣金额为{$credit_max}</p>
+	                    <p>消费积分为{$credit_max_consume}</p>
+	                    <p>您的可用积分为{$credit_aval}</p>
+	                    <input type="hidden" id="userCredit" value="{$credit_aval}" />
+                    </div>
+	                    
+                    <!-- <p>请输入您想消费的积分数量：<input type="number" name="credit_used"></p> -->
+                    {else}
+                    <input type="hidden" name="if_credit" value="0" checked/>
+                    {/if}
+                    <div class="payment-area">
+                    <p>支付方式：</p>
+                    {foreach from=$payments item=payment}
+                    <div class="payment-select">
+	                    <input type="radio" name="payment" id="pay_{$payment.payment_code}" value="{$payment.payment_code}" />
+	                    <label for="pay_{$payment.payment_code}">{$payment.payment_name}</label>
+                    </div>
+	                    
+                    {/foreach}
+                    </div>
+                    <div class="cart-sum-submit">
+						<span class="cart-sum">合计：<span class="cart-price"><strong id="order_amount">{$real_total}</strong></span></span>
+						<a href="javascript:void($('#order_form').submit());" class="cart-submit">提交订单</a>
+					</div>
+                </form >
+            </div>
+            <script type="text/javascript">
+            var re = /^1[3|4|5|7|8][0-9]\d{4,8}$/; //手机正则
+            	function checkForm() {
+            		if ($('#use_new_address').attr('checked')) {
+            			if ($('#consignee').val() == '') {
+            				alert('请填写收货人姓名');
+            				return false;
+            			} else if ($('#phone_tel').val() == '') {
+            				alert('请填写收货人手机');
+            				return false;
+            			} else if (!re.test($('#phone_tel').val())) {
+            				alert('请正确的手机号');
+            				return false;
+            			} else if ($('#region_id').val() == '') {
+            				alert('请选择所在地区');
+            				return false;
+            			}  else if ($('#address').val() == '') {
+            				alert('请填写详细地址');
+            				return false;
+            			} 
+            		} else if ($('.shipping-method:checked').length == 0) {
+            			alert('请选择配送方式');
+            			return false;
+            		} else if ($('input[name="payment"]:checked').length == 0) {
+            			alert('请选择支付方式');
+            			return false;
+            		}
+            	}
+            </script>
+            <div class="slide-menu">
+	<a href="http://www.hnsjb.cn/main" class="slide-link home-link"><img src="newstatic/img/side-xj.png" alt="新界" class="xinjie-logo" /></a>
+	<a href="http://127.0.0.1/ecmalltest" class="slide-link mall-link">商城首页</a>
+	<a href="{url app=category}" class="slide-link cate-link">分类</a>
+	<a href="{url app=cart}" class="slide-link cart-link">购物车</a>
+	<a href="index.php?app=buyer_order&act=index" class="slide-link order-link">订单</a>
+	<a href="http://www.hnsjb.cn/usercenter/menu" class="slide-link fav-link">收藏夹</a>
+	<a href="{url app=my_address}" class="slide-link addr-link">收货地址</a>
+</div>
+<div class="opacity-backdrop"></div>
+
+    <script type="text/javascript">
+    	function mysetCookie(c_name, value, expiredays) {
+	var exdate = new Date();
+	exdate.setDate(exdate.getDate() + expiredays);
+	document.cookie = c_name + "=" + escape(value) + ((expiredays == null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
+};
+
+function mygetCookie(c_name) {
+	if (document.cookie.length > 0) {
+		c_start = document.cookie.indexOf(c_name + "=");
+		if (c_start != -1) {
+			c_start = c_start + c_name.length + 1;
+			c_end = document.cookie.indexOf(";", c_start);
+			if (c_end == -1) c_end = document.cookie.length;
+			return unescape(document.cookie.substring(c_start, c_end));
+		}
+	}
+	return "";
+};
+
+function myclearCookie(c_name) {
+	mysetCookie(c_name, "", -1);
+}
+function changeAmount() {
+	var amountList = $('input[name="order-goods-subtotal"]:not(.coded)');
+		var totalAmount = 0;
+		for (var i=0;i<amountList.length;i++) {
+			totalAmount += parseFloat($(amountList[i]).val());
+		}
+		var shippingList = $('.shipping-method1:checked');
+		for (var i = 0;i<shippingList.length;i++) {
+			totalAmount += parseFloat($(shippingList[i]).data('fee'));
+		}
+//		totalAmount = totalAmount.toFixed(2);
+		$('#order_amount').text(totalAmount);
+		if (totalAmount <=0) {
+			$('.payment-area').hide();
+			var paymentitem = '<input type="radio" checked="checked" class="hide-elem" style="width:1px;height:1px" name="payment" id="pay_alipay" value="alipay" />';
+			$('.cart-sum-submit').prepend(paymentitem);
+		} else {
+			$('.payment-area').show();
+			$('.hide-elem').remove();
+		}
+}
+
+$(function() {
+	var ua = navigator.userAgent.toLowerCase();
+	if (mygetCookie('user_info') !='') {
+		$('#unlogged').hide();
+		$('#logged').show()
+	}
+	$('.back-to-top').click(function() {
+		$("html,body").animate({scrollTop: 0}, 1000);
+	})
+	$('.menu-btn').click(function() {
+		$('.slide-menu').slideDown();
+		$('.opacity-backdrop').show();
+	})
+	$('.opacity-backdrop').click(function() {
+		$('.slide-menu').fadeOut();
+		$('.opacity-backdrop').hide();
+	})
+	var params = {};
+	if (document) {
+		params.domain = document.domain || '';
+		params.url = document.URL || '';
+		params.title = document.title || '';
+	};
+	//Window对象数据
+	if (window && window.screen) {
+		params.sh = window.screen.height || 0;
+		params.sw = window.screen.width || 0;
+		params.cd = window.screen.colorDepth || 0;
+	};
+	//navigator对象数据
+	if (navigator) {
+		params.lang = navigator.language || '';
+		params.appVersion = navigator.appVersion || '';
+		params.platform = navigator.platform || '';
+	};
+	if (ua.match(/micromessenger/) == "micromessenger") {
+		params.wechat = 1;
+	} else {
+		params.wechat = 0;
+	}
+	params.referrer = mygetCookie('referer') || document.referrer || '';
+
+	$.post('useraction.php', {
+		params: params
+	});
+	var amountList = $('input[name="order-goods-subtotal"]:not(.coded)');
+		var totalAmount = 0;
+		for (var i=0;i<amountList.length;i++) {
+			totalAmount += parseFloat($(amountList[i]).val());
+		}
+		var shippingList = $('.shipping-method1:checked');
+		for (var i = 0;i<shippingList.length;i++) {
+			totalAmount += parseFloat($(shippingList[i]).data('fee'));
+		}
+//		totalAmount = totalAmount.toFixed(2);
+		$('#order_amount').text(totalAmount);
+		if (totalAmount <=0) {
+			$('.payment-area').hide();
+			var paymentitem = '<input type="radio" checked="checked" class="hide-elem" style="width:1px;height:1px" name="payment" id="pay_alipay" value="alipay" />';
+			$('.cart-sum-submit').prepend(paymentitem);
+		} else {
+			$('.payment-area').show();
+			$('.hide-elem').remove();
+		}
+	$('.cod-y').click(function() {
+		$(this).parent().parent().parent().find('input[name="order-goods-subtotal"]').addClass('coded');
+		var amountList = $('input[name="order-goods-subtotal"]:not(.coded)');
+		var totalAmount = 0;
+		for (var i=0;i<amountList.length;i++) {
+			totalAmount += parseFloat($(amountList[i]).val());
+		}
+		var shippingList = $('.shipping-method1:checked');
+		for (var i = 0;i<shippingList.length;i++) {
+			totalAmount += parseFloat($(shippingList[i]).data('fee'));
+		}
+//		totalAmount = totalAmount.toFixed(2);
+		$('#order_amount').text(totalAmount);
+		if (totalAmount <=0) {
+			$('.payment-area').hide();
+			var paymentitem = '<input type="radio" checked="checked" class="hide-elem" style="width:1px;height:1px" name="payment" id="pay_alipay" value="alipay" />';
+			$('.cart-sum-submit').prepend(paymentitem);
+		} else {
+			$('.payment-area').show();
+			$('.hide-elem').remove();
+		}
+	})
+	$('.cod-n').click(function() {
+		$(this).parent().parent().parent().find('input[name="order-goods-subtotal"]').removeClass('coded');
+		var amountList = $('input[name="order-goods-subtotal"]:not(.coded)');
+		var totalAmount = 0;
+		for (var i=0;i<amountList.length;i++) {
+			totalAmount += parseFloat($(amountList[i]).val());
+		}
+		var shippingList = $('.shipping-method1:checked');
+		for (var i = 0;i<shippingList.length;i++) {
+			totalAmount += parseFloat($(shippingList[i]).data('fee'));
+		}
+		
+//		totalAmount = totalAmount.toFixed(2);
+		$('#order_amount').text(totalAmount);
+		if (totalAmount <=0) {
+			$('.payment-area').hide();
+			var paymentitem = '<input type="radio" checked="checked" class="hide-elem" style="width:1px;height:1px" name="payment" id="pay_alipay" value="alipay" />';
+			$('.cart-sum-submit').prepend(paymentitem);
+		} else {
+			$('.payment-area').show();
+			$('.hide-elem').remove();
+		}
+	})
+	
+	
+})
+    </script>  
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?428818587a22359510fbcc475869ae96";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+           </body>
+</html>

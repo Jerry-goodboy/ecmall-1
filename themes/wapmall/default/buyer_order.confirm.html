@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script type="text/javascript">
+$(function(){
+    $('#confirm_cancel').click(function(){
+        DialogManager.close('buyer_order_confirm_order');
+    });
+});
+</script>
+<div class="msg">
+<div id="warning"></div>
+<form action="index.php?app=buyer_order&act=confirm_order&order_id={$order.order_id}&ajax" method="post" target="iframe_post">
+	<div class="content-above">
+		<p>{$lang.confirm_order_confirm}</p>
+	    <p>{$lang.order_sn}:<span>{$order.order_sn}</span></p>
+	    <p>{$lang.notice}&nbsp;:&nbsp;{$lang.confirm_order_notice}</span></p>
+	</div>
+	    
+        <input type="submit" id="confirm_yes"  value="{$lang.confirm}" />
+        <input type="button" id="confirm_cancel"  value="{$lang.cancel}" />
+</form>
+</div>
+

@@ -1,0 +1,16 @@
+
+	
+	
+	
+	<!--{if $page_info.page_count gt 1}-->	
+	
+	<div class="goods-list-pager">
+		 <!--{if $page_info.prev_link}-->
+			<a class="pager-navigation pager-prev" href="{$page_info.prev_link}">上一页</a>
+			<!--{/if}-->
+			<div class="pager-number"><span>{$page_info.curr_page}</span>/<span>{$page_info.page_count}</span></div>
+			 <!--{if $page_info.next_link}-->
+			<a class="pager-navigation pager-next" href="{$page_info.next_link}">下一页</a>
+			<!--{/if}-->
+		</div>
+<!--{/if}-->

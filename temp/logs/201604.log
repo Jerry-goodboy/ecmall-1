@@ -1,0 +1,1298 @@
+Fri, 01 Apr 2016 09:56:57 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:08 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:09 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:09 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:10 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:10 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:10 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 09:57:14 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 10:19:10 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Fri, 01 Apr 2016 10:38:42 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	31
+Fri, 01 Apr 2016 11:37:22 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 11:43:58 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 11:45:37 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 11:49:31 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	31
+Fri, 01 Apr 2016 11:50:15 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 11:51:52 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 12:03:36 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 12:05:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 14:39:15 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	41
+Fri, 01 Apr 2016 14:39:21 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	41
+Fri, 01 Apr 2016 14:40:10 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	41
+Fri, 01 Apr 2016 14:40:11 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	41
+Fri, 01 Apr 2016 14:40:11 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	41
+Fri, 01 Apr 2016 14:41:02 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	43
+Fri, 01 Apr 2016 14:41:49 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	43
+Fri, 01 Apr 2016 14:42:32 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	42
+Fri, 01 Apr 2016 14:55:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 14:55:56 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 01 Apr 2016 15:36:53 +0800	[2]Invalid argument supplied for foreach()	/app/sso.app.php	107
+Mon, 04 Apr 2016 16:06:59 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 04 Apr 2016 16:07:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 04 Apr 2016 16:14:58 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 04 Apr 2016 16:15:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 04 Apr 2016 16:15:56 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Tue, 05 Apr 2016 09:41:49 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Tue, 05 Apr 2016 09:55:23 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	151
+Tue, 05 Apr 2016 11:13:50 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Tue, 05 Apr 2016 11:13:52 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:24:34 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:25:20 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:25:21 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:25:22 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:26:32 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:26:33 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:26:33 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:26:33 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:27:11 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:27:13 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:33:37 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:34:25 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 11:47:07 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	462
+Wed, 06 Apr 2016 16:02:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 16:02:42 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 16:02:43 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 16:02:45 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 16:02:47 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 16:02:48 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 18:23:54 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:02:31 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:02:35 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:03:08 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:03:09 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:03:43 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:06:04 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:07:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:07:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:07:40 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:07:40 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:07:50 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:09:04 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:09:05 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:10:48 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:10:48 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:13:17 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:15:03 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:15:03 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:15:05 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:15:06 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:15:37 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:19:56 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:19:57 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:19:57 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:19:57 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:19:57 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:20:32 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:06 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:33 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:52 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:22:53 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:29:49 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:30:07 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:32:14 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:34:13 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:34:44 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:34:59 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:35:01 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:35:02 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:35:02 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:35:03 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:35:03 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[459]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:29 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:41 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:42 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:42 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:43 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:36:59 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:37:00 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 19:38:22 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+MySQL Query:SELECT COUNT(DISTINCT goods_id) as c FROM ecm_cart WHERE 
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:00:52 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id=7' at line 1
+MySQL Query:SELECT g.store_id, g.goods_id, g.goods_name, g.spec_name_1, g.spec_name_2, g.default_image, gs.spec_1, gs.spec_2, gs.stock, gs.price,gs.spec_id FROM ecm_goods_spec gs LEFT JOIN ecm_goods g ON gs.goods_id = g.goods_id WHERE 114AND user_id=7
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:02:16 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id=7' at line 1
+MySQL Query:SELECT g.store_id, g.goods_id, g.goods_name, g.spec_name_1, g.spec_name_2, g.default_image, gs.spec_1, gs.spec_2, gs.stock, gs.price,gs.spec_id FROM ecm_goods_spec gs LEFT JOIN ecm_goods g ON gs.goods_id = g.goods_id WHERE 114AND user_id=7
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:05:51 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND user_id=7114' at line 1
+MySQL Query:SELECT g.store_id, g.goods_id, g.goods_name, g.spec_name_1, g.spec_name_2, g.default_image, gs.spec_1, gs.spec_2, gs.stock, gs.price,gs.spec_id FROM ecm_goods_spec gs LEFT JOIN ecm_goods g ON gs.goods_id = g.goods_id WHERE AND user_id=7114
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:06:34 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'spec_id=114' at line 1
+MySQL Query:SELECT g.store_id, g.goods_id, g.goods_name, g.spec_name_1, g.spec_name_2, g.default_image, gs.spec_1, gs.spec_2, gs.stock, gs.price,gs.spec_id FROM ecm_goods_spec gs LEFT JOIN ecm_goods g ON gs.goods_id = g.goods_id WHERE user_id=7AND spec_id=114
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:07:00 +0800	[256]MySQL Error[1054]: Unknown column 'user_id' in 'where clause'
+MySQL Query:SELECT g.store_id, g.goods_id, g.goods_name, g.spec_name_1, g.spec_name_2, g.default_image, gs.spec_1, gs.spec_2, gs.stock, gs.price,gs.spec_id FROM ecm_goods_spec gs LEFT JOIN ecm_goods g ON gs.goods_id = g.goods_id WHERE user_id=7 AND spec_id=114
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Wed, 06 Apr 2016 20:19:26 +0800	[256]MySQL Error[1054]: Unknown column 'if_checked' in 'where clause'
+MySQL Query:SELECT *,cart.rec_id FROM ecm_cart cart LEFT JOIN ecm_goods_spec gs ON cart.spec_id = gs.spec_id WHERE user_id = 7 AND if_checked = 1
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 10:02:15 +0800	[256]MySQL Error[1054]: Unknown column 'goods_id' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,goods_id,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,payment_code,payment_name,payment_id,order_amount,out_trade_sn) VALUES('1609783929','131','material','normal','2','演示店铺','7','18637139066','5925@hnsjb.cn','11','1459965735','0.01','0','0','','alipay','支付宝','6','20.01','5092528060')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[298]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 10:03:43 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	460
+Thu, 07 Apr 2016 10:11:06 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	460
+Thu, 07 Apr 2016 10:15:27 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 14:45:53 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 16:19:41 +0800	[256]MySQL Error[1054]: Unknown column 'cod' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,goods_id,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,cod,payment_code,payment_name,payment_id,order_amount,out_trade_sn) VALUES('1609731430','131','material','normal','2','演示店铺','7','18637139066','5925@hnsjb.cn','20','1459988381','0','0','0','','1','alipay','支付宝','6','0','5380378511')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[298]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:21:28 +0800	[256]MySQL Error[1054]: Unknown column 'cod' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,goods_id,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,cod,payment_code,payment_name,payment_id,order_amount,out_trade_sn) VALUES('1609735343','131','material','normal','2','演示店铺','7','18637139066','5925@hnsjb.cn','20','1459988488','0','0','0','','1','cod','货到付款','1','0','2660720439')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[298]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:22:57 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:23:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '136' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:23:59 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:25:34 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:26:37 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:27:05 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND evaluation_status = '1'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Thu, 07 Apr 2016 16:44:33 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 16:48:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 16:58:10 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 17:08:07 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 18:08:27 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 07 Apr 2016 20:09:46 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 02:08:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 10:41:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 10:45:38 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 10:55:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 11:05:19 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 11:34:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 11:38:38 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 11:48:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 11:59:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 12:05:21 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 12:59:03 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 14:05:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 14:58:24 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 17:02:52 +0800	[256]MySQL Error[1146]: Table 'ecmall.ecm_wxconfig' doesn't exist
+MySQL Query:select url, token, appid, appsecret from ecm_wxconfig where user_id='7'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[589]	/eccore/model/mysql.php	286
+Fri, 08 Apr 2016 17:03:01 +0800	[256]MySQL Error[1146]: Table 'ecmall.ecm_wxconfig' doesn't exist
+MySQL Query:select url, token, appid, appsecret from ecm_wxconfig where user_id='7'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[589]	/eccore/model/mysql.php	286
+Fri, 08 Apr 2016 17:08:06 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 20:05:44 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 08 Apr 2016 20:58:04 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 09 Apr 2016 11:05:24 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 09 Apr 2016 11:58:32 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 10 Apr 2016 03:39:05 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '2' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:20 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '5' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:35 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '11' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:40 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '112' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:45 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '15' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:51 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '117' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:39:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '136' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:40:00 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '131' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 03:43:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '23' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:06:23 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '24' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:08:42 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '4' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:09:48 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '137' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:29:31 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '13' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:29:41 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '14' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:30:11 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '113' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:30:27 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '10' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:31:34 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '4' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:32:04 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '3' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:33:26 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '25' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 04:57:16 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '22' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:23:39 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '103' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:24:49 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '28' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:24:54 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '26' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:25:04 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '21' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:26:40 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '2' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 05:46:47 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:09:09 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '19' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:09:15 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '115' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:09:41 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '17' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:09:56 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '7' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:11:13 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '9' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:11:33 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '7' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:12:39 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '1' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:31:45 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '106' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:33:31 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '20' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:33:37 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '27' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:33:52 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '29' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:55:58 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '1' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:56:23 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '6' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:56:33 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '8' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:57:34 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '12' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:58:10 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '16' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:58:25 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '114' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 06:58:30 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '18' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 07:20:04 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '313' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 12:27:57 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '102' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:08 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '22' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:13 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '25' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:23 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '106' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:48 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '5' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:53 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '137' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:28:58 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '2' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:29:13 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '14' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:29:24 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:29:29 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '13' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:29:39 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '10' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:14 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '24' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:19 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '23' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:30 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '12' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:35 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '15' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:40 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '117' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:50 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '3' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:30:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '136' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:00 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '131' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:05 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '4' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:31 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '11' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:36 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '16' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:46 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '18' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:31:56 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '113' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:32:01 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '114' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sun, 10 Apr 2016 23:32:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '7' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:45:06 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '2' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:46:42 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '1' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:47:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '9' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:47:22 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '4' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:22 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '27' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:28 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '20' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:32 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '29' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:38 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '103' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:48 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '8' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:53 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '6' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 00:48:58 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '1' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:22:40 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '102' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:23:25 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '115' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:23:30 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '112' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:23:50 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '19' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:23:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '17' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:24:26 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '28' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:24:37 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '21' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 01:24:42 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '26' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 03:36:43 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '7' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Mon, 11 Apr 2016 05:26:41 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '313' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 12 Apr 2016 09:28:39 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.spec_id, gs.spec_1, gs.spec_2, gs.color_rgb, gs.price, gs.stock, s.store_name, ' at line 1
+MySQL Query:SELECT g.goods_id, g.store_id, g.type, g.goods_name, g.cate_id, g.cate_name, g.brand, g.spec_qty, g.spec_name_1, g.spec_name_2, g.if_show, g.closed, g.add_time, g.recommended, g.default_image, g.if_credit gs.spec_id, gs.spec_1, gs.spec_2, gs.color_rgb, gs.price, gs.stock, s.store_name, s.region_id, s.region_name, s.credit_value, s.sgrade, gp.pvs, gst.views, gst.sales, gst.comments FROM ecm_goods g LEFT JOIN ecm_goods_spec gs ON g.default_spec = gs.spec_id LEFT JOIN ecm_store s ON g.store_id = s.store_id LEFT JOIN ecm_goods_pvs gp ON g.goods_id=gp.goods_id LEFT JOIN ecm_goods_statistics gst ON g.goods_id = gst.goods_id  WHERE 1 = 1 AND gs.spec_id IS NOT NULL AND s.store_id IS NOT NULL  ORDER BY goods_id desc, s.sort_order  LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Tue, 12 Apr 2016 14:47:39 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Tue, 12 Apr 2016 15:57:18 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 12 Apr 2016 15:57:21 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 12 Apr 2016 15:57:24 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Tue, 12 Apr 2016 16:28:46 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	202
+Tue, 12 Apr 2016 16:30:10 +0800	[256]MySQL Error[1054]: Unknown column 'credit_percent' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,goods_id,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,cod,credit_percent,payment_code,payment_name,payment_id,order_amount,out_trade_sn) VALUES('1610208645','137','material','normal','7','冯朔的店','3','buyer','buyer@ecmall.com','11','1460421010','0.01','0','0','','0','50','','','','0.01','7275759655')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[298]	/eccore/model/mysql.php	286
+Tue, 12 Apr 2016 17:22:36 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	201
+Wed, 13 Apr 2016 09:35:11 +0800	[2]mysql_connect(): Host '192.168.1.92' is not allowed to connect to this MySQL server	/app/order.app.php	164
+Wed, 13 Apr 2016 10:00:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:04:02 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:14:44 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:16:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:20:17 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:24:13 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:30:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 10:40:41 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 11:24:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 11:40:45 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 13:24:49 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 13:40:25 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 15:21:54 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	201
+Wed, 13 Apr 2016 15:31:29 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 15:35:09 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 15:45:31 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 15:55:21 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 16:13:30 +0800	[256]MySQL Error[1054]: Unknown column 'if_credit' in 'field list'
+MySQL Query:INSERT INTO ecm_order(order_sn,goods_id,type,extension,seller_id,seller_name,buyer_id,buyer_name,buyer_email,status,add_time,goods_amount,discount,anonymous,postscript,cod,credit_consume,if_credit,payment_code,payment_name,payment_id,order_amount,out_trade_sn) VALUES('1610321098','131','material','normal','2','演示店铺','7','18637139066','5925@hnsjb.cn','11','1460506410','0.01','0','0','','0','1','0','alipay','支付宝','6','0.005','8396570103')
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/model.base.php[298]	/eccore/model/mysql.php	286
+Wed, 13 Apr 2016 16:13:56 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	471
+Wed, 13 Apr 2016 16:14:57 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 16:14:59 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	471
+Wed, 13 Apr 2016 16:16:14 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	471
+Wed, 13 Apr 2016 16:16:32 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	472
+Wed, 13 Apr 2016 16:18:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 13 Apr 2016 16:33:18 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Wed, 13 Apr 2016 16:48:09 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Thu, 14 Apr 2016 09:53:38 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	300
+Thu, 14 Apr 2016 09:54:03 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	300
+Thu, 14 Apr 2016 09:54:05 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	300
+Thu, 14 Apr 2016 09:54:33 +0800	[2]Invalid argument supplied for foreach()	/app/cashier.app.php	300
+Thu, 14 Apr 2016 10:09:52 +0800	[256]MySQL Error[1064]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '支付宝 where order_id = '696'' at line 1
+MySQL Query:update ecm_order set payment_id = 6, payment_code=alipay, payment_name=支付宝 where order_id = '696'
+Wrong File:  /data/web/s.hnsjb.cn/app/cashier.app.php[330]	/eccore/model/mysql.php	286
+Thu, 14 Apr 2016 15:08:35 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:39 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:39 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:41 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:44 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:55 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:08:57 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:14 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:15 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:15 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:15 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:16 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:16 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:18 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:36 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:44 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:45 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:46 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:47 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:47 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:48 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:48 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:48 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:48 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:09:48 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:20 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:21 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:21 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:21 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:21 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:22 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:22 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:23 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:24 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:35 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:37 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:37 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:10:38 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:52 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:54 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:54 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:54 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:54 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:54 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:11:55 +0800	[2]rmdir(/data/web/s.hnsjb.cn/temp/caches/0496): Directory not empty	/eccore/ecmall.php	1375
+Thu, 14 Apr 2016 15:19:56 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0148/ab016304dcd78bff60f9a17810017d0e.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Thu, 14 Apr 2016 16:04:17 +0800	[2]Division by zero	/includes/libraries/image.func.php	58
+Thu, 14 Apr 2016 16:09:05 +0800	[2]Division by zero	/includes/libraries/image.func.php	58
+Thu, 14 Apr 2016 16:13:06 +0800	[2]Division by zero	/includes/libraries/image.func.php	58
+Thu, 14 Apr 2016 16:19:21 +0800	[2]Division by zero	/includes/libraries/image.func.php	58
+Thu, 14 Apr 2016 16:41:26 +0800	[2]array_merge(): Argument #2 is not an array	/app/goods.app.php	742
+Thu, 14 Apr 2016 16:42:06 +0800	[2]array_merge(): Argument #2 is not an array	/app/goods.app.php	742
+Thu, 14 Apr 2016 16:44:20 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 16:48:03 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 16:56:45 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Thu, 14 Apr 2016 16:58:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 17:06:15 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 17:08:10 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 17:10:02 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 17:20:30 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 17:30:38 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 18:08:24 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 18:30:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 19:31:30 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Thu, 14 Apr 2016 19:31:44 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Thu, 14 Apr 2016 19:31:54 +0800	[2]array_values() expects parameter 1 to be array, null given	/includes/ordertypes/normal.otype.php	211
+Thu, 14 Apr 2016 20:08:46 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 14 Apr 2016 20:36:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 02:09:40 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 02:31:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 09:02:35 +0800	[2]include_once(/data/web/s.hnsjb.cn/external/widgets/Taocz_re_goods/main.widget.php): failed to open stream: No such file or directory	/includes/widget.base.php	273
+Fri, 15 Apr 2016 10:53:39 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 10:57:10 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 11:07:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 11:17:37 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 12:17:20 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 14:17:15 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 14:49:40 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Fri, 15 Apr 2016 16:01:28 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '2' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Fri, 15 Apr 2016 16:10:06 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	462
+Fri, 15 Apr 2016 17:07:58 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	462
+Fri, 15 Apr 2016 17:08:09 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	462
+Fri, 15 Apr 2016 17:08:19 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	462
+Fri, 15 Apr 2016 17:08:21 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 17:08:41 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	462
+Fri, 15 Apr 2016 17:18:28 +0800	[2]filemtime(): stat failed for /data/web/s.hnsjb.cn/data/crond.lock	/includes/libraries/cron.lib.php	132
+Fri, 15 Apr 2016 17:22:01 +0800	[2]filemtime(): stat failed for /data/web/s.hnsjb.cn/data/crond.lock	/includes/libraries/cron.lib.php	132
+Fri, 15 Apr 2016 17:30:37 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 15 Apr 2016 18:15:10 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Fri, 15 Apr 2016 18:20:23 +0800	[2]Invalid argument supplied for foreach()	/app/goods.app.php	523
+Fri, 15 Apr 2016 18:20:44 +0800	[2]Invalid argument supplied for foreach()	/app/goods.app.php	524
+Fri, 15 Apr 2016 18:21:18 +0800	[2]Invalid argument supplied for foreach()	/app/goods.app.php	523
+Fri, 15 Apr 2016 18:21:55 +0800	[2]Invalid argument supplied for foreach()	/app/goods.app.php	524
+Fri, 15 Apr 2016 20:17:35 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 16 Apr 2016 02:29:36 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '137' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:29:56 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '14' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:01 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '143' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:07 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '13' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '144' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:33 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '115' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:38 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '112' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:43 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '7' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:30:48 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '9' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:31:54 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '26' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:31:59 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '28' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:32:19 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '22' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:48:49 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '153' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:49:04 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '1' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:50:06 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '8' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:50:11 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '6' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:50:36 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '113' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:50:57 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '114' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:51:42 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '12' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 02:52:14 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '15' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:05:26 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '138' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:05:37 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '136' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:05:46 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '131' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:08:18 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '155' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:52:25 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '27' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 04:54:33 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '7' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:14:37 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '100' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:15:28 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '3' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:15:38 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '151' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:17:26 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '20' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:18:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '24' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:18:17 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '23' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:36:18 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '5' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:37:13 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '117' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:37:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '18' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:38:16 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '11' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:57:16 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '16' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:57:21 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '141' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 05:59:39 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '2' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:18:12 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '29' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:18:32 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '25' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:19:32 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '21' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:21:55 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '102' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:37:19 +0800	[256]MySQL Error[1052]: Column 'goods_id' in field list is ambiguous
+MySQL Query:SELECT buyer_id, buyer_name, anonymous, evaluation_time, goods_id, goods_name, specification, price, quantity, goods_image, evaluation, comment,order_goods.rec_id FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE seller_id = '4' AND evaluation_status = 1 AND is_valid = 1  ORDER BY evaluation_time desc LIMIT 0,10
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:37:34 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '150' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:37:44 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '106' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:38:49 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '2' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:58:53 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '140' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:59:03 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '17' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:59:18 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '10' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 06:59:49 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '19' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 07:01:20 +0800	[256]MySQL Error[1052]: Column 'goods_id' in where clause is ambiguous
+MySQL Query:SELECT COUNT(*) as c FROM ecm_order_goods order_goods LEFT JOIN ecm_order order_alias ON order_goods.order_id = order_alias.order_id WHERE goods_id = '4' AND status = '40'
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[458]	/eccore/model/mysql.php	286
+Sat, 16 Apr 2016 11:17:29 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 16 Apr 2016 18:31:48 +0800	[2]filemtime(): stat failed for /data/web/s.hnsjb.cn/data/crond.lock	/includes/libraries/cron.lib.php	132
+Sun, 17 Apr 2016 15:01:27 +0800	[2]filemtime(): stat failed for /data/web/s.hnsjb.cn/data/crond.lock	/includes/libraries/cron.lib.php	132
+Sun, 17 Apr 2016 16:23:00 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	473
+Sun, 17 Apr 2016 16:23:08 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	473
+Sun, 17 Apr 2016 16:23:24 +0800	[2]Invalid argument supplied for foreach()	/app/buyer_order.app.php	473
+Sun, 17 Apr 2016 16:25:56 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 17 Apr 2016 16:29:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 17 Apr 2016 16:40:21 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 17 Apr 2016 16:49:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 17 Apr 2016 17:49:06 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sun, 17 Apr 2016 19:49:11 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 01:49:16 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 10:24:07 +0800	[256]MySQL Error[1054]: Unknown column 'userid' in 'where clause'
+MySQL Query:select * from ecm_cart where userid = '7'
+Wrong File:  /data/web/s.hnsjb.cn/app/cart.app.php[341]	/eccore/model/mysql.php	286
+Mon, 18 Apr 2016 10:30:43 +0800	[2]Illegal string offset 'credit'	/app/cart.app.php	38
+Mon, 18 Apr 2016 14:25:02 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 14:29:32 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 14:39:25 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 14:49:24 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 15:49:03 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 16:49:44 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 17:49:35 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Mon, 18 Apr 2016 23:49:16 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Tue, 19 Apr 2016 14:47:28 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	298
+Tue, 19 Apr 2016 14:48:33 +0800	[2]Invalid argument supplied for foreach()	/app/cart.app.php	298
+Tue, 19 Apr 2016 14:49:25 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Wed, 20 Apr 2016 16:36:07 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:07 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:08 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:09 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:09 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:10 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:11 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:12 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:12 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:17 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:21 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:23 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:26 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:31 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:38 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:42 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:44 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:45 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Mon, 25 Apr 2016 10:53:45 +0800	[2]file_put_contents(/data/web/s.hnsjb.cn/temp/caches/0498/a520b575a1d9b7ea9220363c3ed51eba.cache.php): failed to open stream: Permission denied	/includes/libraries/cache.lib.php	81
+Thu, 28 Apr 2016 09:45:06 +0800	[256]MySQL Error[1054]: Unknown column 'pic_slides_wap' in 'field list'
+MySQL Query:SELECT pic_slides_wap,s.store_id FROM ecm_store s WHERE store_id=4310
+Wrong File:  /data/web/s.hnsjb.cn/eccore/model/mysql.php[534]	/eccore/model/mysql.php	286
+Thu, 28 Apr 2016 14:54:12 +0800	[2]filemtime(): stat failed for /data/web/s.hnsjb.cn/data/crond.lock	/includes/libraries/cron.lib.php	132
+Thu, 28 Apr 2016 15:22:43 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:23:36 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:23:38 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:26:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:27:22 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:29:12 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:29:35 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:30:10 +0800	[2]include(/data/web/s.hnsjb.cn/includes/payments/huodaofukuan/huodaofukuan.payment.php): failed to open stream: No such file or directory	/app/frontend.base.php	517
+Thu, 28 Apr 2016 15:30:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:33:11 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:33:12 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:33:28 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:34:31 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:37:49 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:41:09 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:43:16 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:43:17 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:44:21 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:47:17 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:48:00 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:00 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:00 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:32 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:32 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:48:32 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:40 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:40 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:40 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:51 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:51 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:51 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:51 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:50:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:50:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:52:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:52:40 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:20 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:26 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:53:29 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:39 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:43 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:53:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:53:50 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:09 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:30 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:34 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:41 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:44 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:47 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:54:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:55:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:56:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:57:22 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:57:42 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:57:42 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 15:58:28 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:59:29 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 15:59:33 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:03:32 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:08:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:11:18 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:11:22 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:11:29 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:12:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:12:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:12:22 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:12:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:15:20 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:18:00 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:18:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:18:25 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:18:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:19:09 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:22:30 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:22:49 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:23:03 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:23:05 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:23:07 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:23:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:23:45 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:23:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:24:20 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:24:23 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:25:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:25:16 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:25:33 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:26:07 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:26:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:26:58 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:28:07 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:28:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:28:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:29:23 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:29:38 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:30:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:31:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:32:13 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:32:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:33:51 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:03 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:05 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:08 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:46 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:48 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:34:50 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:35:20 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:36:30 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:36:45 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:37:54 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:39:06 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	26
+Thu, 28 Apr 2016 16:39:06 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	26
+Thu, 28 Apr 2016 16:39:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:39:11 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:39:35 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	27
+Thu, 28 Apr 2016 16:39:35 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	23
+Thu, 28 Apr 2016 16:39:35 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	27
+Thu, 28 Apr 2016 16:40:12 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	27
+Thu, 28 Apr 2016 16:40:23 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	27
+Thu, 28 Apr 2016 16:40:23 +0800	[2]mysql_fetch_assoc() expects parameter 1 to be resource, null given	/app/get_recommend.app.php	27
+Thu, 28 Apr 2016 16:40:23 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:41:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:41:21 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:41:42 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:43:06 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:46:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:50:30 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:50:30 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:51:13 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	22
+Thu, 28 Apr 2016 16:51:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:51:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:51:26 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:52:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:53:06 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:53:31 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:53:47 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:55:12 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:56:42 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:57:07 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:57:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:57:29 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 16:58:01 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 16:59:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:03:07 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:04:38 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:05:43 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:06:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:06:51 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:07:05 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:07:09 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 17:08:48 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:17:33 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 17:18:20 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:18:40 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:19:44 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:21:47 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:22:18 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:22:46 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:23:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:26:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:26:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:29:31 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:30:30 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:30:55 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:30:59 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Thu, 28 Apr 2016 17:39:04 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 17:43:40 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:17:09 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:50:10 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:53:10 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:53:29 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:55:41 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 18:57:13 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 19:40:13 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 19:43:08 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Thu, 28 Apr 2016 20:17:03 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 00:50:30 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 00:53:06 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 00:53:49 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 00:55:39 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 00:57:34 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 01:40:46 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 01:42:46 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 02:17:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 08:08:45 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 08:08:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 08:08:59 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 08:09:12 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 08:09:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 08:36:53 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 08:41:50 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 08:45:43 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 08:55:07 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 08:56:50 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:05:30 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 09:18:32 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:18:34 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:32:46 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:49:27 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:52:13 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:52:34 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:52:44 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:52:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 09:52:53 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:05:22 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 10:34:18 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:34:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:35:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:35:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:36:17 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:40:42 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:41:10 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:41:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:41:19 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:41:55 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:42:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:42:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:44:06 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:44:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:45:13 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:46:01 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:46:13 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:46:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:46:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:47:04 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 10:47:19 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 11:19:23 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 11:28:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 11:37:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 12:05:32 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 14:25:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:29:09 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:36:59 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:40:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:41:41 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:41:44 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:41:52 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:42:02 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:42:08 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:42:27 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:42:33 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:42:59 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:43:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:45:19 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:47:17 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:49:21 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:49:41 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:49:54 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:50:27 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:50:45 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:51:26 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:51:44 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 14:54:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 15:50:16 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 15:53:05 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 15:53:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 15:55:02 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 15:57:13 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 15:57:34 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 16:21:27 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:21:49 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:22:21 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:28:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:28:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:28:28 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:29:09 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:35:24 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 16:40:20 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 16:43:14 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 17:13:35 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:15:53 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:16:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:16:19 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:16:19 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:17:04 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Fri, 29 Apr 2016 17:18:54 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:18:55 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:18:55 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:18:56 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:36 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:41 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:42 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:43 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:43 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:19:43 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:20:09 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:20:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:20:17 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:11 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:16 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:35 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:21:39 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:39:05 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:39:15 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:39:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:41:14 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:42:21 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	70
+Fri, 29 Apr 2016 17:43:08 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:43:28 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:43:48 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 17:44:25 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Fri, 29 Apr 2016 18:05:17 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 30 Apr 2016 09:05:36 +0800	[2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known	/includes/libraries/class.smtp.php	89
+Sat, 30 Apr 2016 14:43:17 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69
+Sat, 30 Apr 2016 14:43:37 +0800	[2]Invalid argument supplied for foreach()	/app/get_recommend.app.php	69

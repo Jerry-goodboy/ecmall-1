@@ -1,0 +1,128 @@
+{include file="member.header.html"}
+{$_head_tags}
+<body>
+	<header class="list-header">
+			<a href="{url app=default}" class="back-btn"></a>
+			订单中心
+			{include file='header.search.html'}
+			<a href="javascript:void(0)" class="menu-btn"></a>
+		</header>
+	<div class="order-list-area">
+		<ul class="ecmall-tab forth-tab">
+			<li class="tab-item <!--{if $type eq pending}-->current-tab<!--{/if}-->"><a href="{url app=buyer_order&act=index&type=pending}">待付款</a></li>
+			<li class="tab-item <!--{if $type eq accepted}-->current-tab<!--{/if}-->"><a href="{url app=buyer_order&act=index&type=accepted}">待发货</a></li>
+			<li class="tab-item <!--{if $type eq shipped}-->current-tab<!--{/if}-->"><a href="{url app=buyer_order&act=index&type=shipped}">待收货</a></li>
+			<li class="tab-item <!--{if $type eq finished}-->current-tab<!--{/if}-->"><a href="{url app=buyer_order&act=index&type=finished}">已完成</a></li>
+		</ul>
+		<div id="myorder-list">
+			<!--{foreach from=$orders item=order}-->
+				<section class="myorder-item">
+					<div class="order-goods-item">
+						<h3 class="order-goods-shopname" <!--{if $order.status eq ORDER_PENDING}--> style="padding-left: 57px;background-position-x: 36px;"<!--{/if}-->>
+							<!--{if $order.status eq ORDER_PENDING}-->
+								<input type="checkbox" name="pending" id="{$order.order_id}" value="{$order.order_id}" class="ecmall-check" />
+							<!--{/if}-->
+							<label for="{$order.order_id}">{$order.seller_name|escape}</label>	
+							<span class="order-status">{$order.status|modifier:order_status}<!--{if $order.evaluation_status}-->,&nbsp;{$lang.already_evaluate}<!--{/if}--></span>
+						</h3>
+						<!--{foreach from=$order.order_goods item=goods}-->
+						<ul class="order-goods-list">
+							<li>
+								<a href="{url app=goods&id=$goods.goods_id}" class="order-goods-link">
+									<img src="{$goods.goods_image}" alt="{$goods.goods_name|escape}" />
+									<div class="order-goods-info">
+										<p class="order-goods-name">{$goods.goods_name|escape}</p>
+										<p class="order-goods-amount">数量：{$goods.quantity}</p>
+										{if $order.credit_consume}
+										<p class="order-goods-price">积分：{$order.credit_consume|credit_consume}</p>
+										{else}
+										<p class="order-goods-price">{$goods.price|price}</p>
+										{/if}
+									</div>
+								</a>
+							</li>
+						</ul>
+						
+						<!--{if $order.payment_name}-->
+
+                		<!--{/if}-->
+                		<div class="myorder-option">
+                			<div class="myorder-info">
+								共{$goods.quantity}件 合计：<span class="myorder-info-price">{if $order.credit_consume}积分{$order.credit_consume}{else}￥<em>{$goods.price}</em>{/if}</span><span class="myorder-info-express-fee">(含运费￥{$order.shipping_fee})</span>
+							</div>
+							<!--{/foreach}-->
+							<div class="myorder-function">
+								{if $order.status eq ORDER_FINISHED and $order.evaluation_status eq 0} <a class="myorder-btn" href="{url app=buyer_order&act=evaluate&order_id=$order.order_id}" id="order{$order.order_id}_evaluate" >{$lang.evaluate}</a>{/if}
+	                    		{if $order.status eq ORDER_PENDING and $order.order_amount neq 0.00}<a href="{url app=cashier&order_id=$order.order_id}" class="myorder-btn" id="order{$order.order_id}_action_pay" class="white_btn">{$lang.pay}</a>{/if} 
+	                    		{if $order.status eq ORDER_SHIPPED and $order.payment_code neq 'cod'}  <button type="button" class="myorder-btn" ectype="dialog" dialog_id="buyer_order_confirm_order" dialog_width="100%" dialog_title="{$lang.confirm_order}" uri="index.php?app=buyer_order&amp;act=confirm_order&order_id={$order.order_id}&ajax"  id="order{$order.order_id}_action_confirm"/>{$lang.confirm_order}</button>{/if}
+	                            <a href="{url app=buyer_order&act=view&order_id=$order.order_id}"  class="myorder-btn">{$lang.view_order}</a>
+							</div>
+                		</div>
+							
+					</div>
+				</section>
+				<!--{foreachelse}-->
+				<section class="myorder-item" style="height: 100px;line-height: 100px;width: 100%;text-align: center;">
+					你没有订单信息~
+				</section>
+				 <!--{/foreach}-->
+		</div>
+	</div>
+	
+    
+
+
+
+        <div class="page">
+            {include file=member.page.bottom.html}
+        </div>
+<!--{if $type eq pending}-->
+
+<div class="cart-sum-submit">
+	<span class="cart-sum">合计：<span class="cart-price">&yen;<em id="order-number"></em></span>(不含运费)</span>
+	<a href="#" id="totalpay" class="cart-submit">合并付款</a>
+</div>
+
+<script type="text/javascript">
+
+$(function() {
+	var order_id = [];
+	$('input[name="pending"]').change(function() {
+		if ($(this).prop('checked')) {
+			if (order_id.length > 0) {
+				order_id = JSON.parse(order_id);
+			}
+			order_id.push($(this).val());
+			order_id = JSON.stringify(order_id);
+			$('#totalpay').attr('href','index.php?app=cashier&act=merge_payment&order_id='+order_id);
+		} else {
+			order_id = [];
+			var checkedbox = $('input[name="pending"]:checked');
+			for (var i = 0;i<checkedbox.length;i++) {
+				order_id.push($(checkedbox[i]).val());
+			}
+			order_id = JSON.stringify(order_id);
+			$('#totalpay').attr('href','index.php?app=cashier&act=merge_payment&order_id='+order_id);
+		}
+		var selectedGoods = $('input[name="pending"]:checked').parent().parent().parent().find('em');
+	var totalamount = 0;
+	for (var i = 0;i < selectedGoods.length;i ++) {
+		
+				totalamount += parseFloat($(selectedGoods[i]).text());
+			
+	}
+	$('#order-number').text(totalamount);
+	})
+	var selectedGoods = $('input[name="pending"]:checked').parent().parent().parent().find('em');
+	var totalamount = 0;
+	for (var i = 0;i < selectedGoods.length;i ++) {
+		totalamount += parseFloat($(selectedGoods[i]).text());
+			
+	}
+	$('#order-number').text(totalamount);
+})
+	
+</script>
+<!--{/if}-->
+        <iframe id='iframe_post' name="iframe_post" src="about:blank" frameborder="0" width="0" height="0"></iframe>
+    {include file="member.footer.html"}

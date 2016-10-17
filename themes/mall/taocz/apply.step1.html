@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base href="{$site_url}/" />
+<meta http-equiv="Content-Type" content="text/html; charset={$charset}" />
+{$page_seo}
+
+<meta name="author" content="ecmall.shopex.cn" />
+<meta name="generator" content="ECMall {$ecmall_version}" />
+<meta name="copyright" content="ShopEx Inc. All Rights Reserved" />
+
+<link type="text/css" href="{res file=css/header.css}" rel="stylesheet" />
+<link type="text/css" href="{res file=css/main.css}" rel="stylesheet"  />
+<link type="text/css" href="{res file=css/footer.css}" rel="stylesheet" />
+
+<script type="text/javascript" src="index.php?act=jslang"></script>
+<script type="text/javascript" src="{lib file=jquery.js}" charset="utf-8"></script>
+<script type="text/javascript" src="{lib file=ecmall.js}" charset="utf-8"></script>
+<script type="text/javascript" src="{lib file=cart.js}" charset="utf-8"></script>
+<script type="text/javascript" src="{res file=js/main.js}" charset="utf-8"></script> 
+<script type="text/javascript" src="{lib file=kissy/build/kissy.js}"></script>
+<script type="text/javascript" src="{lib file=kissy/build/switchable/switchable-pkg.js}"></script>
+
+<!--[if lte IE 6]>
+<script type="text/javascript" language="Javascript" src="{res file=js/hoverForIE6.js}"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<!CDATA[
+var SITE_URL = "{$site_url}";
+var REAL_SITE_URL = "{$real_site_url}";
+var PRICE_FORMAT = '{$price_format}';
+//]]>
+</script>
+
+{$_head_tags}
+<!--<editmode></editmode>-->
+</head>
+<body>
+<div id="site-nav" class="w-full">
+<div class="shoptop w clearfix">
+      <div class="login_info">
+         {$lang.hello},
+         <!--{if !$visitor.user_id}-->
+         {$visitor.user_name|escape}
+         <a href="{url app=member&act=login&ret_url=$ret_url}">{$lang.login}</a>
+         <a href="{url app=member&act=register&ret_url=$ret_url}">{$lang.register}</a>
+         <!--{else}-->
+         <a href="{url app=member}"><span>{$visitor.user_name|escape}</span></a>
+         <a href="http://www.hnsjb.cn/web/usercenter.html">用户中心</a>
+         <a href="{url app=message&act=newpm}">{$lang.pm}<!--{if $new_message}-->(<span>{$new_message}</span>)<!--{/if}--></a>
+         <!--{/if}-->
+      </div>
+</div>
+<div id="header" class="w-full">
+	<div class="shop-t w clearfix pb10 mb5 mt5">
+      <div class="logo mt10">
+         <img alt="{$site_title}" src="{$site_logo}" />
+      </div>
+      <div class="top-search">
+      </div>
+   </div>
+    <div class="w-full mall-nav">
+    	<ul class="w clearfix">
+    	</ul>
+    </div>
+</div>
+
+<div id="main" class="w-full">
+<div id="page-apply" class="w mt10 mb20">
+   <div class="title padding5 strong fs14">
+      {$lang.i_want_open_store}
+   </div>
+   <div class="content border padding10 border-t-0 linehei20">
+      <!--{foreach from=$sgrades item=sgrade name=fe_sgrade}-->
+      <dl class="clearfix mb10" {if $smarty.foreach.fe_sgrade.last} style="border-bottom:0;"{/if}>
+         <dt class="float-left strong">{$sgrade.grade_name}</dt>
+         <dd class="float-left">
+            <p>{$lang.goods_limit}{$lang.colon}<span>{$sgrade.goods_limit}</span></p>
+            <p>{$lang.space_limit}{$lang.colon}<span>{$sgrade.space_limit}</span></p>
+            <p>{$lang.skin_limit}{$lang.colon}<span>{$sgrade.skin_limit}</span></p>
+            <p>{$lang.charge}{$lang.colon}<span>{$sgrade.charge}</span></p>
+            <p>{$lang.need_confirm}{$lang.colon}<span><!--{if $sgrade.need_confirm}-->{$lang.yes}<!--{else}-->{$lang.no}<!--{/if}--></span></p>
+         </dd>
+         <dd class="float-left">
+            <p>{$lang.add_use}{$lang.colon}</p>
+            <p>
+               <!--{foreach from=$sgrade.functions item=functions key=k name=v}-->
+               <!--{if $domain && $k eq 'subdomain'}-->
+               <span>{$lang.domain}</span>
+               <!--{else}-->
+               <span>{$lang.$k}</span>
+               <!--{/if}-->
+               <!--{if !$smarty.foreach.v.last}-->
+               <!--{/if}-->
+               <!--{/foreach}-->
+            </p>
+         </dd>
+         <dd class="float-left">{$sgrade.description}</dd>
+         <dd class="float-left"><a href="{url app=apply&step=2&id=$sgrade.grade_id}" class="btn-apply fs14 strong fff center">{$lang.soon_open}</a></dd>
+      </dl>
+      <!--{/foreach}-->
+   </div>
+</div>
+</div>
+<div id="footer" class="w-full">
+   <div class="foot-copyright">Copyright &copy; 2011-2014 河南手机报 版权所有 <!--{if $icp_number}-->{$icp_number}<!--{/if}--> {$statistics_code}</div>
+</div>
+    
+    
+</div>
+</body>
+</html>
